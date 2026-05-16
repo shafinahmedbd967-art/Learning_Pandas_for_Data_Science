@@ -27,6 +27,7 @@ All teaching content, concepts, and course structure are from **[Sheryians AI Sc
 
 ## 🗂️ Repository Structure
 
+```
 Learning_Pandas_for_Data_Science/
 │
 ├── 01_Pandas_Series.ipynb                        # Pandas Series — creation, indexing, operations
@@ -41,12 +42,11 @@ Learning_Pandas_for_Data_Science/
 │
 ├── anime.csv                                     # Dataset for anime feature extraction project
 └── Countries.csv                                 # Dataset for capstone countries project
-
+```
 ---
 
 ## 📓 Notebook Breakdown
 
-```
 ### 01 — Pandas Series
 Introduction to the foundational 1D data structure in Pandas. Covers creation, indexing, slicing, and basic operations on Series.
 
@@ -74,7 +74,6 @@ A mini project using `anime.csv` to practice feature extraction, filtering, and 
 ### 09 — Capstone Project: Countries 🌍
 A full end-to-end data analysis project using `Countries.csv` — applying all Pandas skills learned throughout the course.
 
-```
 ---
 
 ## 🛠️ Libraries Used
